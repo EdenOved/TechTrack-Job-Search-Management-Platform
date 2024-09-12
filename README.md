@@ -104,6 +104,6 @@ Feel free to fork this repository, submit pull requests, or open issues if you e
 
 ## **Contact**
 - **Name**: Eden Ovad
-- **Email**: (mailto:edenovad777@gmail.com)
+- **Email**: edenovad777@gmail.com
 - **LinkedIn**: [Eden Ovad](https://www.linkedin.com/in/edenovad/)
 
