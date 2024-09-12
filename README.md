@@ -107,7 +107,3 @@ Feel free to fork this repository, submit pull requests, or open issues if you e
 - **Email**: (mailto:edenovad777@gmail.com)
 - **LinkedIn**: [Eden Ovad](https://www.linkedin.com/in/edenovad/)
 
----
-
-## **License**
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
