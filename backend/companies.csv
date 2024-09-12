@@ -1,0 +1,119 @@
+id,company_name,location,industry,website
+2,BMC,Tel Aviv,Software,https://www.bmc.com
+3,Wix,Tel Aviv,Web Development,https://www.wix.com
+4,MyHeritage,Tel Aviv,Genealogy,https://www.myheritage.com
+5,Indeni,Tel Aviv,Cybersecurity,https://www.indeni.com
+6,Zoomin,Tel Aviv,Content Management,https://www.zoominfo.com
+7,Checkmarx,Tel Aviv,Cybersecurity,https://www.checkmarx.com
+8,Neura,Tel Aviv,AI,https://www.neura.com
+9,IBM,Tel Aviv,Technology,https://www.ibm.com
+10,SimilarWeb,Tel Aviv,Market Intelligence,https://www.similarweb.com
+11,Stucco,Tel Aviv,Data Solutions,https://www.stucco.com
+12,Playtech,Tel Aviv,Gaming,https://www.playtech.com
+13,Playtika,Tel Aviv,Gaming,https://www.playtika.com
+14,FB,Tel Aviv,Social Media,https://www.facebook.com
+16,Soluto,Tel Aviv,Software,https://www.soluto.com
+17,Autodesk,Tel Aviv,Software,https://www.autodesk.com
+18,Playbuzz,Tel Aviv,Media,https://www.playbuzz.com
+19,Netcraft,Tel Aviv,Internet Security,https://www.netcraft.com
+20,Centric,Tel Aviv,Software,https://www.centric.com
+21,Conduit,Tel Aviv,Software,https://www.conduit.com
+22,CyberArk,Tel Aviv,Cybersecurity,https://www.cyberark.com
+23,Testim.io,Tel Aviv,Testing,https://www.testim.io
+24,Audioburst,Tel Aviv,Media,https://www.audioburst.com
+25,Riskified,Tel Aviv,Cybersecurity,https://www.riskified.com
+26,IronSource,Tel Aviv,Gaming,https://www.ironsource.com
+27,Taboola,Tel Aviv,Data,https://www.taboola.com
+28,Fiverr,Tel Aviv,Freelance Services,https://www.fiverr.com
+29,Natural Intelligence,Tel Aviv,AI,https://www.naturalint.com
+30,EarlySense,Tel Aviv,Healthcare,https://www.earlysense.com
+31,Verizon Media,Tel Aviv,Media,https://www.verizonmedia.com
+32,CATO,Tel Aviv,Cybersecurity,https://www.cato.com
+33,Checkpoint,Tel Aviv,Cybersecurity,https://www.checkpoint.com
+34,Cytegic,Tel Aviv,Cybersecurity,https://www.cytegic.com
+35,Imperva,Rehovot,Cybersecurity,https://www.imperva.com
+36,Innovid,Tel Aviv,Advertising,https://www.innovid.com
+37,Minute Media,Tel Aviv,Media,https://www.minutemedia.com
+38,Sqream,Tel Aviv,Big Data,https://www.sqream.com
+39,Systematics,Tel Aviv,Software,https://www.systematics.com
+40,Tapingo,Tel Aviv,Software,https://www.tapingo.com
+41,Trax,Tel Aviv,Retail,https://www.trax.com
+42,Rakutan Viber,Tel Aviv,Networking,https://www.rakutanviber.com
+43,Explorium,Tel Aviv,Data,https://www.explorium.ai
+44,Etoro,Bnei Brak,FinTech,https://www.etoro.com
+45,Tailor Brands,Tel Aviv,Branding,https://www.tailorbrands.com
+46,Moon Active,Tel Aviv,Gaming,https://www.moonactive.com
+47,Play Studios,Tel Aviv,Gaming,https://www.playstudios.com
+48,Vision.bi,Tel Aviv,Data,https://www.vision.bi
+49,JFrog,Tel Aviv,Software,https://www.jfrog.com
+50,Perion,Tel Aviv,Advertising,https://www.perion.com
+51,Outbrain,Tel Aviv,Advertising,https://www.outbrain.com
+52,Scodix,Tel Aviv,Print,https://www.scodix.com
+53,Theranica,Tel Aviv,Medical,https://www.theranica.com
+54,Personetics,Tel Aviv,FinTech,https://www.personetics.com
+55,Forter,Tel Aviv,Security,https://www.forter.com
+56,DoubleVerify,Tel Aviv,Advertising,https://www.doubleverify.com
+57,Pandologic,Tel Aviv,HR,https://www.pandologic.com
+58,Payoneer,Tel Aviv,FinTech,https://www.payoneer.com
+59,AppsFlyer,Tel Aviv,Marketing,https://www.appsflyer.com
+60,Optimove,Tel Aviv,Marketing,https://www.optimove.com
+61,Culture Trip,Tel Aviv,Media,https://www.culturetrip.com
+62,Sisense,Tel Aviv,Data,https://www.sisense.com
+63,Medalia,Tel Aviv,Healthcare,https://www.medalia.com
+64,Amobee,Tel Aviv,Advertising,https://www.amobee.com
+65,Loom Systems,Tel Aviv,AI,https://www.loomsystems.com
+66,Verint,Tel Aviv,Security,https://www.verint.com
+67,Zooz,Tel Aviv,Payments,https://www.zooz.com
+68,Experitest,Tel Aviv,Testing,https://www.experitest.com
+69,Moovit,Tel Aviv,Transportation,https://www.moovit.com
+70,Vast Data,Tel Aviv,Data,https://www.vastdata.com
+71,Ubimo,Tel Aviv,Location Intelligence,https://www.ubimo.com
+72,WeWork,Tel Aviv,Real Estate,https://www.wework.com
+73,Jelly Button Games,Tel Aviv,Gaming,https://www.jellybuttongames.com
+75,Buyando,Tel Aviv,E-Commerce,https://www.buyando.com
+76,Simplex,Tel Aviv,Payments,https://www.simplex.com
+77,Namogoo,Tel Aviv,E-Commerce,https://www.namogoo.com
+78,Rewire.to,Tel Aviv,Payments,https://www.rewire.to
+79,Kenshoo,Tel Aviv,Marketing,https://www.kenshoo.com
+80,Webpals,Tel Aviv,Advertising,https://www.webpals.com
+81,Seeking Alpha,Tel Aviv,Finance,https://www.seekingalpha.com
+82,Gaia Inc.,Tel Aviv,Finance,https://www.gaia.com
+83,G-STAT,Tel Aviv,Data,https://www.g-stat.com
+84,K Health,Tel Aviv,Healthcare,https://www.khealth.com
+85,AniView,Tel Aviv,Video,https://www.aniview.com
+86,WeissBeerger,Tel Aviv,Data,https://www.weissbeerger.com
+87,Nova Measuring Instruments,Tel Aviv,Technology,https://www.novameasuring.com
+88,IAI,Tel Aviv,Defense,https://www.iai.com
+89,JoyTunes,Tel Aviv,Music,https://www.joytunes.com
+90,Hometalk,Jerusalem,Media,https://www.hometalk.com
+91,eBay,Tel Aviv,E-Commerce,https://www.ebay.com
+92,Amazon,Tel Aviv,E-Commerce,https://www.amazon.com
+93,Rafael Advanced Defence Systems,Tel Aviv,Defense,https://www.rafael.co.il
+94,Here Mobility,Tel Aviv,Transportation,https://www.here.com
+95,Funtomic,Tel Aviv,Gaming,https://www.funtomic.com
+96,Fundbox,Tel Aviv,FinTech,https://www.fundbox.com
+97,Endor,Tel Aviv,AI,https://www.endor.com
+98,Circle,Tel Aviv,Finance,https://www.circle.com
+99,Deezer,Tel Aviv,Media,https://www.deezer.com
+100,Fortinet,Tel Aviv,Cybersecurity,https://www.fortinet.com
+101,Elastic,Tel Aviv,Data,https://www.elastic.co
+102,Sumo Logic,Tel Aviv,Data Analytics,https://www.sumologic.com
+103,WalkMe,Tel Aviv,Digital Adoption,https://www.walkme.com
+104,SentinelOne,Tel Aviv,Cybersecurity,https://www.sentinelone.com
+105,ServiceTitan,Tel Aviv,Software,https://www.servicetitan.com
+107,WalkMe,Tel Aviv,Software,https://www.walkme.com
+108,Outbrain,Tel Aviv,Marketing,https://www.outbrain.com
+110,SimilarWeb,Tel Aviv,Marketing,https://www.similarweb.com
+111,Feedvisor,Tel Aviv,E-Commerce,https://www.feedvisor.com
+112,ClarityRay,Tel Aviv,Advertising,https://www.clarityray.com
+113,Dynamic Yield,Tel Aviv,Marketing,https://www.dynamicyield.com
+114,Infinidat,Tel Aviv,Data Storage,https://www.infinidat.com
+115,Google,Tel Aviv,Technology,https://www.google.com
+116,Facebook,Tel Aviv,Social Media,https://www.facebook.com
+117,Sapir Academic College,Tel Aviv,Education,https://www.sapir.ac.il
+118,Azrieli College,Jerusalem,Education,https://www.azrieli.ac.il
+119,Technion,Haifa,Education,https://www.technion.ac.il
+120,Bar-Ilan University,Ramat Gan,Education,https://www.biu.ac.il
+121,Shenkar College,Ramat Gan,Education,https://www.shenkar.ac.il
+122,IDC Herzliya,Herzliya,Education,https://www.idc.ac.il
+123,Haifa University,Haifa,Education,https://www.haifa.ac.il
