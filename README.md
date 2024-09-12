@@ -1,4 +1,3 @@
-
 # **TechTrack – Job Search Management Platform**
 ### **Personal Project by Eden Ovad**
 
