@@ -37,22 +37,22 @@ TechTrack is a **Job Search Management Platform** designed to streamline the job
 - **npm**: Node package manager for frontend dependencies.
 
 ### frontend init
-cd frontend
-npm install
-cd ..
+- cd frontend
+- npm install
+- cd ..
 
 ### API Endpoints
 ### Company Management Endpoints
-GET /companies: Fetch the list of companies from the database.
-POST /companies: Add a new company to the database.
-PUT /companies/{company_id}: Update an existing company's details.
-DELETE /companies/{company_id}: Remove a company from the database.
-POST /import-companies: Upload a CSV file to import company data. The CSV file works closely with the PostgreSQL database to ensure data synchronization.
+- GET /companies: Fetch the list of companies from the database.
+- POST /companies: Add a new company to the database.
+- PUT /companies/{company_id}: Update an existing company's -details.
+- DELETE /companies/{company_id}: Remove a company from the database.
+- POST /import-companies: Upload a CSV file to import company data. The CSV file works closely with the PostgreSQL database to ensure data synchronization.
 Resume Management Endpoints
-GET /resumes: Fetch a list of uploaded resumes.
-POST /resumes/upload: Upload a new resume.
-PUT /resumes/{resume_id}: Update an existing resume.
-DELETE /resumes/{resume_id}: Delete a resume.
-GET /resumes/download/{filename}: Download a resume by filename.
+- GET /resumes: Fetch a list of uploaded resumes.
+- POST /resumes/upload: Upload a new resume.
+- PUT /resumes/{resume_id}: Update an existing resume.
+- DELETE /resumes/{resume_id}: Delete a resume.
+- GET /resumes/download/{filename}: Download a resume by filename.
 Wikipedia Integration
-GET /company-details/{company_name}: Fetch company details from Wikipedia by name.
+- GET /company-details/{company_name}: Fetch company details from Wikipedia by name.
