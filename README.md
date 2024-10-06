@@ -1,5 +1,5 @@
 # **TechTrack – Job Search Management Platform**
-### **Personal Project by Eden Ovad**
+### **Personal Project by Eden Oved**
 
 **TechTrack** is a job search management platform designed to streamline the job search process in the tech industry. It features a dynamic list of companies with detailed information and job links, alongside robust resume management capabilities with version control. The platform integrates with a CSV file that works closely with a PostgreSQL database, allowing users to efficiently import, update, and manage company data.
 
