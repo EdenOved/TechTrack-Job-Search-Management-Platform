@@ -103,7 +103,7 @@ Feel free to fork this repository, submit pull requests, or open issues if you e
 ---
 
 ## **Contact**
-- **Name**: Eden Ovad
-- **Email**: edenovad777@gmail.com 
-- **LinkedIn**: [Eden Ovad](https://www.linkedin.com/in/edenovad/)
+- **Name**: Eden Oved
+- **Email**: edenoved.swe@gmail.com 
+- **LinkedIn**: [https://www.linkedin.com/in/edenoved/](https://www.linkedin.com/in/edenoved/)
 
