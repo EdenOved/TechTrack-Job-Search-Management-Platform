@@ -84,8 +84,8 @@
   - **Example**:
     ```json
     {
-      "name": "Tech Solutions",
-      "location": "New York",
+      "name": "Tech Solutions Company",
+      "location": "Israel",
       "industry": "Software"
     }
     ```
