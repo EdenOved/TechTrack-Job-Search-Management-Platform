@@ -84,4 +84,33 @@
   - **Example**:
     ```json
     {
-      "name
+      "name": "Tech Solutions",
+      "location": "New York",
+      "industry": "Software"
+    }
+    ```
+- `PUT /companies/{company_id}`: Update company details.  
+- `DELETE /companies/{company_id}`: Delete a company from the database.  
+- `POST /import-companies`: Upload a CSV file to import company data and synchronize it with the PostgreSQL database.
+
+### **Resume Management Endpoints**  
+- `GET /resumes`: Fetch a list of uploaded resumes.  
+- `POST /resumes/upload`: Upload a new resume.  
+- `PUT /resumes/{resume_id}`: Update an existing resume.  
+- `DELETE /resumes/{resume_id}`: Delete a resume.  
+- `GET /resumes/download/{filename}`: Download a resume by filename.
+
+### **Wikipedia Integration**  
+- `GET /company-details/{company_name}`: Fetch company details from Wikipedia by name.
+
+---
+
+## **How to Contribute**
+Feel free to fork this repository, submit pull requests, or open issues if you encounter any bugs or have suggestions for improvements.
+
+---
+
+## **Contact**
+- **Name**: Eden Oved
+- **Email**: edenoved.swe@gmail.com 
+- **LinkedIn**: [https://www.linkedin.com/in/edenoved/](https://www.linkedin.com/in/edenoved/)
