@@ -23,12 +23,12 @@
 ---
 
 ## **Tech Stack**
-- **FastAPI**: Backend framework used to handle API requests and business logic.
-- **React & TypeScript**: Modern frontend for dynamic, responsive interfaces.
-- **PostgreSQL**: Relational database optimized for complex queries and data integrity.
-- **SQLAlchemy**: ORM used for interacting with the PostgreSQL database.
-- **Pandas**: Python library for handling and manipulating CSV data.
-- **Wikipedia API**: Fetches company descriptions and details.
+- 🚀 **FastAPI**: Backend framework used to handle API requests and business logic.
+- ⚛️ **React & TypeScript**: Modern frontend for dynamic, responsive interfaces.
+- 🗄️ **PostgreSQL**: Relational database optimized for complex queries and data integrity.
+- 🧩 **SQLAlchemy**: ORM used for interacting with the PostgreSQL database.
+- 🐍 **Pandas**: Python library for handling and manipulating CSV data.
+- 🌐 **Wikipedia API**: Fetches company descriptions and details.
 
 ---
 
